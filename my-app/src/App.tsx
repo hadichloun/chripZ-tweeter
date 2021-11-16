@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <form>
+        <input>login</input>
+        <input>signup</input>
       <h1>chripZzZ</h1></form>
     </div>
   );
