@@ -8,6 +8,8 @@ function App() {
       <form>
         <input>login</input>
         <input>signup</input>
+        <input>firstname</input>
+        <input>lastname</input>
       <h1>chripZzZ</h1></form>
     </div>
   );
