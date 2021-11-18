@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <Twitter/>
       <form>
         <input>login</input>
         <input>signup</input>
