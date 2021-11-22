@@ -14,6 +14,8 @@ function App() {
         <input>tweet</input>
         <input>lastname</input>
         <input>lastname</input>
+        <input>lastname</input>
+        <input>lastname</input>
 
       <h1>chripZzZ</h1></form>
     </div>
